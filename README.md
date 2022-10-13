@@ -1,14 +1,14 @@
-# mardz_web3_todolist
+# mardz todolist app - web3 blockchain truffle react metamask ganache
 
-npm install
+  npm install
 
 # Things to do when you change the code:
 
-truffle compile
+  truffle compile
 
-truffle migrate --reset
+  truffle migrate --reset
 
-# To run the app locally run ganache then:
+# To run the app locally run ganache first then:
 
-npm run dev
+  npm run dev
 
