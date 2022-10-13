@@ -1,3 +1,4 @@
+Things to do when you change the code:
 "# mardz_web3_todolist" 
 
 npm install
