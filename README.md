@@ -1,14 +1,14 @@
 # mardz web3 todolist app
 
       npm install
+      
+# locally run ganache and add it to metamask first 
 
 # Command to execute after you change the code:
 
       truffle compile
 
       truffle migrate --reset
-
-# locally run ganache and add it to metamask first 
 
 # To run the app: 
 
