@@ -2,7 +2,7 @@
 
    npm install
 
-# Things to do when you change the code:
+# Command to execute after you change the code:
 
    truffle compile
 
