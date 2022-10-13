@@ -24,7 +24,7 @@ contract TodoList {
 
 
     constructor() {
-        createTask("Hello It's me Junjie. Welcome to my Web3 TodoList App.!!!");
+        createTask("Hello its me junjie this is my first task");
     }
 
     function createTask(string memory _content) public {
