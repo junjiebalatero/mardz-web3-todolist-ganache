@@ -8,7 +8,9 @@ Things to do when you change the code:
 
   # truffle migrate --reset
 
-To run the app locally run ganache first then:
+locally run ganache and add it to metamask first 
+
+To run the app: 
 
   # npm run dev
   
